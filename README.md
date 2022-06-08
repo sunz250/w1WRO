@@ -1,4 +1,4 @@
-РРО: Будущие инженеры 2022 | КОМАНДА LigaRobotov_OSError
+РРО: Будущие инженеры 2022 | команда LigaRobotov_OSError
 ====
 
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
