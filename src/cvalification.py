@@ -80,7 +80,6 @@ class INA219:
     def read(self,address):
         data = self.bus.read_i2c_block_data(self.addr, address, 2)
         return ((data[0] * 256 ) + data[1])
-
     def write(self,address,data):
         temp = [0,0]
         temp[1] = data & 0xFF
